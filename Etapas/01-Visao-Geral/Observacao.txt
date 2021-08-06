@@ -1,0 +1,3 @@
+Link do Repositorio de Exercicios >>>>  https://github.com/cod3rcursos/web-moderno
+Sobre terminal >> Linux/Mac: https://blog.cod3r.com.br/terminal-no-macos-e-linux/
+Sobre terminal >> Windows: https://blog.cod3r.com.br/terminal-no-windows/

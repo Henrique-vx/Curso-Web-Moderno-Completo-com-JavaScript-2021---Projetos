@@ -1,0 +1,4 @@
+Baixar o node >> https://nodejs.org/en/
+Baixar o Visual Studio >> https://code.visualstudio.com/
+    Pluguin: Code Runner Javascript
+
